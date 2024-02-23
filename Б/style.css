@@ -1,0 +1,81 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    height: 100%;
+}
+.flex{
+    display: flex;
+}
+
+.grow{
+    display: flex;
+    flex-grow: 1;
+}
+
+.column{
+    display: flex;
+    flex-direction: column;
+}
+
+.pad{
+    padding: 0px 100px;
+}
+
+
+.pos1{
+    background-color: blue;
+    height: 50px;
+}
+
+.zone1{
+    width: 100%;
+}
+
+.pos2{
+background-color: yellow;
+width: 20%;
+}
+
+.pos4{
+    background-color: white;
+    height: 84vh;
+}
+
+.pos5{
+    background-color: yellow;
+    width:100%;
+    height: 10%;
+}
+
+.pos3{
+    background-color: blue;
+    height: 50px;
+}
+
+div{
+    border: 1px solid black;
+}
+
+.pos1:hover{
+    background-color: darkblue;
+}
+
+.pos3:hover{
+    background-color: darkblue;
+}
+
+.pos2:hover{
+    background-color: aquamarine;
+}
+
+.pos5:hover{
+    background-color: aquamarine;
+}
+.pos4:hover{
+    background-color: gold;
+}
+.spanchik{
+    background-color: blueviolet;
+  }
