@@ -1,0 +1,66 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+div{
+    border: 1px solid black;
+}
+
+.pad{
+    padding: 0px 100px;
+}
+
+.pos1{
+    background-color: blue;
+    height: 55px;
+}
+
+.flex{
+    display: flex;
+    justify-content: space-between;
+}
+
+.pos2{
+    background-color: yellow;
+    width: 20%;
+    height: 85vh;
+}
+
+.pos4{
+    width:100% ;
+}
+
+.pos5{
+    background-color: yellow;
+    width: 20%;
+}
+
+.pos3{
+    background-color: blue;
+    height: 55px;
+}
+
+.spanchik{
+    background-color: blueviolet;
+  }
+
+.pos1:hover{
+    background-color: green;
+}
+
+.pos3:hover{
+    background-color: green;
+}
+
+.pos2:hover{
+    background-color: steelblue;
+}
+
+.pos5:hover{
+    background-color: steelblue;
+}
+
+.pos4:hover{
+    background-color: hotpink;
+}
