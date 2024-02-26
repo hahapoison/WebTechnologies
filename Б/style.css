@@ -9,10 +9,7 @@ body{
     display: flex;
 }
 
-.grow{
-    display: flex;
-    flex-grow: 1;
-}
+
 
 .column{
     display: flex;
@@ -45,7 +42,6 @@ width: 20%;
 
 .pos5{
     background-color: yellow;
-    width:100%;
     height: 10%;
 }
 
