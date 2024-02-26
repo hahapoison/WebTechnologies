@@ -1,57 +1,53 @@
 .zone1{
-  display: flex;
-}
-.zone2{
-  width: 80%;
-}
-
-.pos1{
-  background-color: blue;
-  width: 80%;
-  height: 10%;
-}
-.pos4{
-  width: 80%;
-  height: 80%;
-}
-
-.pos2{
-  background-color: yellow;
-  width: 20%;
-  height: 100vh;
-}
-.pos3{
-  background-color: blue;
-  height: 10%;
-  width: 80%;
-}
-
-div{
-  border: 1px solid black;
-}
-
-.spanchik{
-  background-color: blueviolet;
-}
-
-.pos1:hover{
-  background-color: hotpink;
-}
-
-.pos3:hover{
-  background-color: hotpink;
-}
-
-.pos2:hover{
-  background-color: salmon;
-}
-.pos4:hover{
-  background-color: salmon;
-}
-
-
-body{
-  margin: 0;
-  padding: 0;
-}
-
+    display: flex;
+  }
+  .zone2{
+    width: 80%;
+  }
+  
+  .pos1{
+    background-color: blue;
+    height: 10%;
+  }
+  .pos4{
+    height: 80%;
+  }
+  
+  .pos2{
+    background-color: yellow;
+    width: 10%;
+    height: 100vh;
+  }
+  .pos3{
+    background-color: blue;
+    height: 10%;
+  }
+  
+  div{
+    border: 1px solid black;
+  }
+  
+  .spanchik{
+    background-color: blueviolet;
+  }
+  
+  .pos1:hover{
+    background-color: hotpink;
+  }
+  
+  .pos3:hover{
+    background-color: hotpink;
+  }
+  
+  .pos2:hover{
+    background-color: salmon;
+  }
+  .pos4:hover{
+    background-color: salmon;
+  }
+  
+  
+  body{
+    margin: 0;
+    padding: 0;
+  }
