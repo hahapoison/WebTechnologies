@@ -3,6 +3,7 @@ body{
     padding: 0;
 }
 
+
 div{
     border: 1px solid black;
 }
@@ -23,22 +24,23 @@ div{
 
 .pos2{
     background-color: yellow;
-    width: 20%;
     height: 85vh;
 }
 
 .pos4{
-    width:100% ;
 }
 
 .pos5{
     background-color: yellow;
-    width: 20%;
 }
 
 .pos3{
     background-color: blue;
     height: 55px;
+}
+
+.width{
+    width: 100%;
 }
 
 .spanchik{
