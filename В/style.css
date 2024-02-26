@@ -1,62 +1,62 @@
 body{
     margin: 0;
-padding: 0;
+    padding: 0;
 }
 
-.flex{
-    display: flex;
-    justify-content: space-between;
-}
-.container{
-    width: 100%;
-    height: 100%;
-}
 
 .pos1{
     background-color: blue;
-    height: 55px;
+    height: 50px;
 }
 
-.pos4{
-    width: 100%;
+
+.pos5{
+    background-color: yellow;
 }
 
 .pos2{
     background-color: yellow;
-    width: 20%;
-    height: 85vh;
-}
-
-.pos5{
-    background-color: yellow;
-    width: 20%;
 }
 
 .pos3{
+    height: 50px;
     background-color: blue;
-    height: 55px;
 }
 
-.spanchik{
-    background-color: blueviolet;
-  }
+.width{
+    width: 200px;
+}
+
+table{
+    width: 100%;
+    height: 100vh;
+}
+
+td{
+    border: 1px solid;
+}
+
+th{
+    border: 1px solid;
+}
 
 .pos1:hover{
-    background-color: green;
+    background-color: tomato;
 }
 
 .pos3:hover{
-    background-color: green;
+    background-color: tomato;
 }
 
 .pos2:hover{
-    background-color: steelblue;
+    background-color: hotpink;
+    
 }
 
 .pos5:hover{
-    background-color: steelblue;
+    background-color: hotpink;
 }
 
 .pos4:hover{
-    background-color: hotpink;
+    background-color: green;
 }
